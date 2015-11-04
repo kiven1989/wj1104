@@ -1,9 +1,5 @@
 master text
 
-<<<<<<< HEAD
-writer two text
-=======
 writer two text
 
 write by new1 branch
->>>>>>> new1
