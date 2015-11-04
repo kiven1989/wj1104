@@ -1,0 +1,5 @@
+master text
+
+writer two text
+
+write by new1 branch
